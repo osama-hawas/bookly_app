@@ -9,7 +9,7 @@ class DetailsScreenAppBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: const EdgeInsets.only(top: 24),
+      margin: const EdgeInsets.only(top: 16),
       alignment: Alignment.center,
       padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
       height: 70,

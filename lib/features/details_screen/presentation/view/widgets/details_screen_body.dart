@@ -85,7 +85,7 @@ class DetailsScreenBody extends StatelessWidget {
                 children: [
                   Container(
                     height: 50,
-                    width: 150,
+                    // width: 150,
                     padding: const EdgeInsets.symmetric(
                         horizontal: 24, vertical: 16),
                     alignment: Alignment.center,
@@ -108,7 +108,7 @@ class DetailsScreenBody extends StatelessWidget {
                   ),
                   Container(
                     height: 50,
-                    width: 150,
+                    // width: 150,
                     padding: const EdgeInsets.symmetric(
                         horizontal: 24, vertical: 16),
                     alignment: Alignment.center,
